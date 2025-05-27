@@ -1,0 +1,18 @@
+Reference,Value,Footprint,Qty,Price,Total Price,Part Page,Piece Per Pack
+C1,100nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,9.38,,https://www.aliexpress.com/item/1005007123309391.html,100
+"C2,C4",4.7uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,15.7,,https://www.aliexpress.com/item/1005007123309391.html,100
+C3,10uF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,15.7,,https://www.aliexpress.com/item/1005007123309391.html,100
+"D1,D2",RED,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,9.13,,https://www.aliexpress.com/item/1005005226854182.html,100
+J1,TYPE-C-31-M-17,custom_library:USB_TYPE-C-31-M-17,1,13.6,,https://www.aliexpress.com/item/1005005625648305.html,10
+R1,1k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,5.69,,https://www.aliexpress.com/item/1005006269805332.html,100
+R2,2k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,5.69,,https://www.aliexpress.com/item/1005006269805332.html,100
+R3,100,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,5.69,,https://www.aliexpress.com/item/1005006269805332.html,100
+R4,470,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,5.69,,https://www.aliexpress.com/item/1005006269805332.html,100
+"R5,R8,R9",10k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,3,5.69,,https://www.aliexpress.com/item/1005006269805332.html,100
+"R6,R7",100k,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,5.69,,https://www.aliexpress.com/item/1005006269805332.html,100
+S1,EG1218,digikey-footprints:Switch_Slide_11.6x4mm_EG1218,1,,,,
+"SW1,SW2,SW3",SW_Push_Dual,custom_library:SW_PUSH_12mm,3,,,,
+U1,DW01A,Package_TO_SOT_SMD:SOT-23-6,1,,,,
+U2,FS8205A,Package_SO:TSSOP-8_4.4x3mm_P0.65mm,1,,,,
+U3,MCP73831-2-OT,Package_TO_SOT_SMD:SOT-23-5,1,,,,
+U4,ESP32-WROOM-32,RF_Module:ESP32-WROOM-32,1,,,,
