@@ -465,7 +465,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "../../../../../../Program Files/KiCad/8.0/",
-      "plot": "",
+      "plot": "gbr",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "Prezenter.step",
